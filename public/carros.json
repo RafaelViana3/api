@@ -1,0 +1,41 @@
+{
+  
+  "carros": {
+    "honda": [ 
+      { "modelo": "Civic", "ano": 2023, "preco": 120000, "cor": "Prata" },
+      { "modelo": "Accord", "ano": 2022, "preco": 150000, "cor": "Preto" },
+      {"modelo": "Fit", "ano": 2021, "preco": 80000, "cor": "Vermelho"} ,
+      { "modelo": "HR-V", "ano": 2023, "preco": 130000, "cor": "Branco"},
+      { "modelo": "CR-V", "ano": 2022, "preco": 160000, "cor": "Azul"}   
+    ],
+    "volks":[
+      { "modelo": "Golf", "ano": 2023, "preco": 110000, "cor": "Branco" },
+      { "modelo": "Polo", "ano": 2022, "preco": 85000, "cor": "Prata" },
+      { "modelo": "Tiguan", "ano": 2023, "preco": 180000, "cor": "Preto" },
+      { "modelo": "Jetta", "ano": 2021, "preco": 95000, "cor": "Vermelho" },
+      { "modelo": "Nivus", "ano": 2022, "preco": 120000, "cor": "Azul" }
+    ],
+    "fiat": [
+      { "modelo": "500", "ano": 2023, "preco": 85000, "cor": "Azul" },
+      { "modelo": "Argo", "ano": 2022, "preco": 70000, "cor": "Vermelho" },
+      { "modelo": "Toro", "ano": 2023, "preco": 130000, "cor": "Branco" },
+      { "modelo": "Strada", "ano": 2021, "preco": 95000, "cor": "Cinza" },
+      { "modelo": "Cronos", "ano": 2022, "preco": 80000, "cor": "Preto" }
+    ],
+    "ford": [
+      { "modelo": "Mustang", "ano": 2022, "preco": 300000, "cor": "Vermelho" },
+      { "modelo": "Fusion", "ano": 2020, "preco": 150000, "cor": "Preto" },
+      { "modelo": "EcoSport", "ano": 2021, "preco": 95000, "cor": "Branco" },
+      { "modelo": "Ranger", "ano": 2023, "preco": 180000, "cor": "Azul" },
+      { "modelo": "Ka", "ano": 2019, "preco": 45000, "cor": "Prata" }
+    ],
+    "toyota": [
+      { "modelo": "Corolla", "ano": 2023, "preco": 115000, "cor": "Preto" },
+      { "modelo": "Camry", "ano": 2022, "preco": 200000, "cor": "Prata" },
+      { "modelo": "RAV4", "ano": 2023, "preco": 180000, "cor": "Branco" },
+      { "modelo": "Hilux", "ano": 2022, "preco": 220000, "cor": "Cinza" },
+      { "modelo": "Yaris", "ano": 2021, "preco": 90000, "cor": "Vermelho" }
+    ]
+  }
+}
+

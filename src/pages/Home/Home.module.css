@@ -1,0 +1,64 @@
+/* css da page Home */
+.home {
+    width: 100%;
+    min-height: 90vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+}
+
+.home span {
+    color: var(--red);
+}
+
+.btn{
+    padding: 15px;
+    background-color: var(--red);
+    color: white;
+    border: solid 1px;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 30px;
+    transition: all .3s;
+    width: 150px;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: white;
+    color: var(--red);
+    border: solid 1px;
+}
+
+.home p {
+    font-size: 3rem; /* 48px */
+    font-weight: bold;
+    margin-bottom: 1rem;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.botoes{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* css dos cards */
+.Card{
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+}
+.sla{
+    border: solid 1px;
+    border-radius: 20px;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+}
+.titulo_carro{
+    font-size: 24px;
+    color: var(--red);
+}
